@@ -4,4 +4,4 @@ Remove watermark from photos.
 衍生：图片视频的美化。
 
 # 技术工具
-## ffmpeg 或者 libav 开源的图片视频处理工具
+ffmpeg 或者 libav 开源的图片视频处理工具
